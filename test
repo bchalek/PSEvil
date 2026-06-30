@@ -1,1 +1,1 @@
-echo "alamakota" > %homepath%\test.txt
+echo "alamakota" > $Env:HOMEPATH\test.txt
